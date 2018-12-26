@@ -1,0 +1,4 @@
+{
+  "content-server":"content.eonwebsolution.com",
+  "game-server":"0.0.0.0:8080"
+}
